@@ -52,7 +52,7 @@ export class HomePage {
 
   lottieParams: LottieParams = {
     path: 'assets/lottie/empty_box.json',
-    renderer: 'canvas',
+    renderer: 'canvas', // 'svg' 'html' the best you will get in 'svg', some time canvas not look exactly as animation made
     loop: true
   };
 
