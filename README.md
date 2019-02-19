@@ -64,3 +64,8 @@ export class HomePage {
 ```
 
 Save your lottie files in the assets folder and change the `path` param, this way they are copied when building your application.
+
+
+##### Demo
+https://stackblitz.com/edit/ionic-web-lottie
+
