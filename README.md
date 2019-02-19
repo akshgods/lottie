@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/%40fivethree%2Flottie.svg)](https://www.npmjs.com/@fivethree/lottie)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/fivethree-team/lottie/blob/master/LICENSE)
 
-Lottie Animation Component for Angular 7 or higher.
+Lottie Animation Component for Angular 4+ or higher.
 
 ## 📦 Installation
 
